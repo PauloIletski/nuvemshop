@@ -6,6 +6,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="facebook-domain-verification" content="qdu2i7lmi3a6ail9x2wl13gf3gicwu" />
         <title>{{ page_title }}</title>
         <meta name="description" content="{{ page_description }}" />
         {% if settings.fb_admins %}
